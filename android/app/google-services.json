@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369820340414",
+    "project_id": "supplychainweb3",
+    "storage_bucket": "supplychainweb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369820340414:android:46d60d8d0d6e3bab9c8eef",
+        "android_client_info": {
+          "package_name": "com.example.fibble.fibble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369820340414-sstc6f8p4tfjj8a7vsk2f857ogn17phe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2A5FNkj62x5uyPZRqpKpwh_W0jhiaag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369820340414-sstc6f8p4tfjj8a7vsk2f857ogn17phe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
